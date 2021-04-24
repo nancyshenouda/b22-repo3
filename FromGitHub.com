@@ -1,1 +1,1 @@
-This is the file i added from GitHum.com to my remote respotory by clicking add file.
+This is the file i added from GitHub.com to my remote respotory by clicking add file.
